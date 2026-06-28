@@ -85,7 +85,7 @@ links         → movieId (FK/PK), imdbId, tmdbId
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movielens-sql.git
+   git clone https://github.com/atchudan/movielens-sql-recommendation.git
    ```
 
 2. **Download the dataset**
@@ -131,6 +131,6 @@ links         → movieId (FK/PK), imdbId, tmdbId
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn Profile URL]
-[GitHub Profile URL]
+Atchudan
+https://www.linkedin.com/in/atchudan-sreeram-609b46169/
+https://github.com/atchudan
